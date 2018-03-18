@@ -8,3 +8,7 @@ with respect to the tip-speed ratio.
 2. Conjugate Gradient Descent Optimization
 3. Steepest Descent Method
 4. Fusion of Conjugate Gradient and Steepest Descent (Conjugate gradient method is used to reach near optimum & steepest decent is used to settle at optimum.)
+
+### Publication
+
+@article{kar_2016, title={Maximum Power Point Tracking (MPPT) Algorithm in Wind Energy Conversion System}, volume={2}, number={12}, journal={IJSTE - International Journal of Science Technology & Engineering}, author={Kar, Aupendu}, year={2016}, month={Jun}, pages={281–284}}
