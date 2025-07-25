@@ -12,14 +12,14 @@ with respect to the tip-speed ratio.
 ## Citation
 ```
 @article{kar_2016,
-title={Maximum Power Point Tracking (MPPT) Algorithm in Wind Energy Conversion System},
-volume={2},
-number={12},
-journal={IJSTE - International Journal of Science Technology & Engineering},
-author={Kar, Aupendu},
-year={2016},
-month={Jun},
-pages={281–284}}
+         title={Maximum Power Point Tracking (MPPT) Algorithm in Wind Energy Conversion System},
+         volume={2},
+         number={12},
+         journal={IJSTE - International Journal of Science Technology & Engineering},
+         author={Kar, Aupendu},
+         year={2016},
+         month={Jun},
+         pages={281–284}}
 ```
 
 ## Paper
